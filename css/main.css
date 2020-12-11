@@ -63,7 +63,7 @@ html, body {
 }
 
 body {
-  background: #111111;
+  background: #177245;
   font-family: "librebaskerville-regular", serif;
   font-size: 1.6rem;
   line-height: 3rem;
@@ -1349,7 +1349,7 @@ header .header-logo a {
  * off-canvas menu - (_layout.scss) 
  * ------------------------------------------------------------------- */
 #menu-nav-wrap {
-  background: #0C0C0C;
+  background: #177245;
   color: rgba(255, 255, 255, 0.25);
   font-size: 1.5rem;
   line-height: 1.6;
@@ -1911,7 +1911,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: .4;
+  /*opacity: .4;*/
   background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.85) 0%, transparent 100%);
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.85) 0%, transparent 100%);
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 0%, transparent 100%);
@@ -2011,7 +2011,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #portfolio .intro-wrap {
   padding: 15rem 0 21rem;
-  background: #111111;
+  background: #2CDB84;
 }
 #portfolio .section-intro h3 {
   color: rgba(242, 242, 242, 0.5);
