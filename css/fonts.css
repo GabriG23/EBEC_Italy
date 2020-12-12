@@ -40,3 +40,45 @@
   font-style: normal;
   font-weight: normal;
 }
+/*
+ * Tahoma
+================================================================================ */
+@font-face {
+	font-family:"tahoma";
+	src: url("../fonts/tahoma/Tahoma-Regular-font.ttf") format("truetype"),
+	     url("../fonts/tahoma/TAHOMA_0.ttf") format("truetype"),
+	     url("../fonts/tahoma/TAHOMAB0.ttf") format("truetype"),
+	     url("../fonts/tahoma/TAHOMABD.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+	
+}
+/*
+ * Cambria
+================================================================================ */
+@font-face {
+	font-family:"cambria";
+	src: url("../fonts/cambria/Cambria.ttf") format("truetype"),
+	     url("../fonts/cambria/cambriab.ttf") format("truetype"),
+	     url("../fonts/cambria/CAMBRIAI.ttf") format("truetype"),
+	     url("../fonts/cambria/CAMBRIAZ.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+	
+}
+/*
+ * Corbel
+================================================================================ */
+@font-face {
+	font-family:"corbel";
+	src: url("../fonts/corbel/CORBEL.ttf") format("truetype"),
+	     url("../fonts/corbel/CORBELB.ttf") format("truetype"),
+	     url("../fonts/corbel/Corbel-Bold.ttf") format("truetype"),
+	     url("../fonts/corbel/Corbel-Bold-Italic.ttf") format("truetype"),
+	     url("../fonts/corbel/corbeli.ttf") format("truetype"),
+	     url("../fonts/corbel/Corbel-Italic.ttf") format("truetype"),
+	     url("../fonts/corbel/corbelz.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+	
+}
